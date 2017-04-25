@@ -1,0 +1,12 @@
+{
+    "name": "wangxiao/di",
+    "description": "di",
+    "type": "library",
+    "authors": [
+        {
+            "name": "wangxiao",
+            "email": "wx497657341@qq.com"
+        }
+    ],
+    "require": {}
+}
