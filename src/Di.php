@@ -1,11 +1,11 @@
 <?php
-namespace Jwwb681232\Ioc;
+namespace Wangxiao\Di;
 /**.
  * User: DeepBl
  * Date: 2017/4/24
  * Time: 21:12
  */
-class Ioc
+class Di
 {
     /**
      * Build an instance of the given class
