@@ -8,5 +8,10 @@
             "email": "wx497657341@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Wangxiao\\Ioc\\": "src/"
+        }
+    }
 }
