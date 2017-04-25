@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Wangxiao\\Ioc\\": "src/"
+            "Wangxiao\\Di\\": "src/"
         }
     }
 }
