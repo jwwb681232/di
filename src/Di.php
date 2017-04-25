@@ -71,7 +71,7 @@ class Di
         if ($parameter->isDefaultValueAvailable()) {
             return $parameter->getDefaultValue();
         }
-
-        throw new \Exception("Erm.. Cannot resolve the unkown!?");
+        return null;
+        //throw new \Exception("Erm.. Cannot resolve the unkown!?");
     }
 }
